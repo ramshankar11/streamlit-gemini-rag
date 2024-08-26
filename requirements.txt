@@ -1,9 +1,9 @@
 pypdf2
 pypdf
-chromadb
 google.generativeai
 langchain-google-genai
 langchain
 unstructured
 faiss-cpu
 langchain_community
+streamlit==1.36.0
